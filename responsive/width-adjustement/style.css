@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+img {
+    width: 100%;
+}
+
+.footer,
+.header {
+    background-color: midnightblue;
+    color: white;
+    padding: 30px;
+}
+
+.main-container {
+    background-color: rgb(0, 255, 0);
+    padding: 20px;
+    margin: 30px 0;
+    max-width: 1000px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* 
+    Issue!
+.footer-text,
+.header-text,
+.container-header {
+    text-align: center;
+} */
+
+.text-center {
+    text-align: center;
+}
